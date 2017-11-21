@@ -1,0 +1,6 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.VisualCpp\NAnt.VisualCppTasks.dll
+C:\nant-0.85-rc4\build.VS.NET\NAnt.VisualCpp\NAnt.VisualCppTasks.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.VisualCpp\NAnt.VisualCppTasks.xml
+C:\nant-0.85-rc4\src\NAnt.VisualCpp\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\NAnt.VisualCpp\obj\Debug\NAnt.VisualCppTasks.dll
+C:\nant-0.85-rc4\src\NAnt.VisualCpp\obj\Debug\NAnt.VisualCppTasks.pdb

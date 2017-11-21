@@ -1,0 +1,6 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Compression\NAnt.CompressionTasks.dll
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Compression\NAnt.CompressionTasks.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Compression\NAnt.CompressionTasks.xml
+C:\nant-0.85-rc4\src\NAnt.Compression\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\NAnt.Compression\obj\Debug\NAnt.CompressionTasks.dll
+C:\nant-0.85-rc4\src\NAnt.Compression\obj\Debug\NAnt.CompressionTasks.pdb

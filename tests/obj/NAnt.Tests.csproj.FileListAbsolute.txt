@@ -1,0 +1,5 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Tests\Nant.Tests.dll
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Tests\Nant.Tests.pdb
+C:\nant-0.85-rc4\tests\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\tests\obj\Debug\Nant.Tests.dll
+C:\nant-0.85-rc4\tests\obj\Debug\Nant.Tests.pdb

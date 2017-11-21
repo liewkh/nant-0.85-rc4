@@ -1,0 +1,6 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.NUnit2\NAnt.NUnit2Tasks.dll
+C:\nant-0.85-rc4\build.VS.NET\NAnt.NUnit2\NAnt.NUnit2Tasks.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.NUnit2\NAnt.NUnit2Tasks.xml
+C:\nant-0.85-rc4\src\NAnt.NUnit\NUnit2\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\NAnt.NUnit\NUnit2\obj\Debug\NAnt.NUnit2Tasks.dll
+C:\nant-0.85-rc4\src\NAnt.NUnit\NUnit2\obj\Debug\NAnt.NUnit2Tasks.pdb

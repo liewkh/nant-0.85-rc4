@@ -1,0 +1,6 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.NUnit\NAnt.NUnit.dll
+C:\nant-0.85-rc4\build.VS.NET\NAnt.NUnit\NAnt.NUnit.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.NUnit\NAnt.NUnit.xml
+C:\nant-0.85-rc4\src\NAnt.NUnit\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\NAnt.NUnit\obj\Debug\NAnt.NUnit.dll
+C:\nant-0.85-rc4\src\NAnt.NUnit\obj\Debug\NAnt.NUnit.pdb

@@ -1,0 +1,5 @@
+C:\nant-0.85-rc4\build.VS.NET\NDoc.Documenter.NAnt\NDoc.Documenter.NAnt.dll
+C:\nant-0.85-rc4\build.VS.NET\NDoc.Documenter.NAnt\NDoc.Documenter.NAnt.pdb
+C:\nant-0.85-rc4\src\NDoc.Documenter.NAnt\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\NDoc.Documenter.NAnt\obj\Debug\NDoc.Documenter.NAnt.dll
+C:\nant-0.85-rc4\src\NDoc.Documenter.NAnt\obj\Debug\NDoc.Documenter.NAnt.pdb

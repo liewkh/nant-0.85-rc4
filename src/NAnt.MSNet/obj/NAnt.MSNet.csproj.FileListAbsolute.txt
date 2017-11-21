@@ -1,0 +1,6 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.MSNet\NAnt.MSNetTasks.dll
+C:\nant-0.85-rc4\build.VS.NET\NAnt.MSNet\NAnt.MSNetTasks.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.MSNet\NAnt.MSNetTasks.xml
+C:\nant-0.85-rc4\src\NAnt.MSNet\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\NAnt.MSNet\obj\Debug\NAnt.MSNetTasks.dll
+C:\nant-0.85-rc4\src\NAnt.MSNet\obj\Debug\NAnt.MSNetTasks.pdb

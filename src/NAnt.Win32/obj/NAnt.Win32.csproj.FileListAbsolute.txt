@@ -1,0 +1,6 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Win32\Nant.Win32Tasks.dll
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Win32\Nant.Win32Tasks.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Win32\Nant.Win32Tasks.xml
+C:\nant-0.85-rc4\src\NAnt.Win32\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\NAnt.Win32\obj\Debug\Nant.Win32Tasks.dll
+C:\nant-0.85-rc4\src\NAnt.Win32\obj\Debug\Nant.Win32Tasks.pdb

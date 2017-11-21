@@ -1,0 +1,9 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Core\NAnt.Core.dll
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Core\NAnt.Core.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Core\NAnt.Core.xml
+C:\nant-0.85-rc4\src\NAnt.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\NAnt.Core\obj\Debug\NAnt.Core.Resources.ProjectHelp.xslt
+C:\nant-0.85-rc4\src\NAnt.Core\obj\Debug\NAnt.Core.Resources.Strings.resources
+C:\nant-0.85-rc4\src\NAnt.Core\obj\Debug\NAnt.Core.csproj.GenerateResource.Cache
+C:\nant-0.85-rc4\src\NAnt.Core\obj\Debug\NAnt.Core.dll
+C:\nant-0.85-rc4\src\NAnt.Core\obj\Debug\NAnt.Core.pdb

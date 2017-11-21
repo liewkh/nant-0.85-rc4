@@ -1,0 +1,7 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Console\NAnt.exe.config
+C:\nant-0.85-rc4\src\Nant.Console\obj\Debug Main NAnt BuildFile\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\Nant.Console\obj\Debug Main NAnt BuildFile\NAnt.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Console\NAnt.exe
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Console\NAnt.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.Console\NAnt.xml
+C:\nant-0.85-rc4\src\Nant.Console\obj\Debug Main NAnt BuildFile\NAnt.exe

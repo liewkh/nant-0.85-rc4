@@ -1,0 +1,8 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.DotNet\NAnt.DotNetTasks.dll
+C:\nant-0.85-rc4\build.VS.NET\NAnt.DotNet\NAnt.DotNetTasks.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.DotNet\NAnt.DotNetTasks.xml
+C:\nant-0.85-rc4\src\NAnt.DotNet\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\NAnt.DotNet\obj\Debug\NAnt.DotNet.Resources.Strings.resources
+C:\nant-0.85-rc4\src\NAnt.DotNet\obj\Debug\NAnt.DotNet.csproj.GenerateResource.Cache
+C:\nant-0.85-rc4\src\NAnt.DotNet\obj\Debug\NAnt.DotNetTasks.dll
+C:\nant-0.85-rc4\src\NAnt.DotNet\obj\Debug\NAnt.DotNetTasks.pdb

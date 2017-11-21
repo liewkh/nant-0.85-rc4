@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NAnt">
+</Property><Property Name="Solution File" Value="C:\nant-0.85-rc4\NAnt.sln">
+</Property><Property Name="Date" Value="Saturday,November 04,2017">
+</Property><Property Name="Time" Value="23:00">
+</Property></Properties><Event ErrorLevel="0" Project="NAnt.Console" Source="src\Nant.Console\NAnt.Console.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.Console" Source="src\Nant.Console\NAnt.Console.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.Tests" Source="tests\NAnt.Tests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.Tests" Source="tests\NAnt.Tests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.DotNet" Source="src\NAnt.DotNet\NAnt.DotNet.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.DotNet" Source="src\NAnt.DotNet\NAnt.DotNet.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.VisualCpp" Source="src\NAnt.VisualCpp\NAnt.VisualCpp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.VisualCpp" Source="src\NAnt.VisualCpp\NAnt.VisualCpp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.Compression" Source="src\NAnt.Compression\NAnt.Compression.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.Compression" Source="src\NAnt.Compression\NAnt.Compression.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NDoc.Documenter.NAnt" Source="src\NDoc.Documenter.NAnt\NDoc.Documenter.NAnt.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NDoc.Documenter.NAnt" Source="src\NDoc.Documenter.NAnt\NDoc.Documenter.NAnt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.Core" Source="src\NAnt.Core\NAnt.Core.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.Core" Source="src\NAnt.Core\NAnt.Core.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.NUnit" Source="src\NAnt.NUnit\NAnt.NUnit.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.NUnit" Source="src\NAnt.NUnit\NAnt.NUnit.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.NUnit2" Source="src\NAnt.NUnit\NUnit2\NAnt.NUnit2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.NUnit2" Source="src\NAnt.NUnit\NUnit2\NAnt.NUnit2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.NUnit1" Source="src\NAnt.NUnit\NUnit1\NAnt.NUnit1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.NUnit1" Source="src\NAnt.NUnit\NUnit1\NAnt.NUnit1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.SourceControl" Source="src\NAnt.SourceControl\NAnt.SourceControl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.SourceControl" Source="src\NAnt.SourceControl\NAnt.SourceControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.Win32" Source="src\NAnt.Win32\NAnt.Win32.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.Win32" Source="src\NAnt.Win32\NAnt.Win32.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.MSNet" Source="src\NAnt.MSNet\NAnt.MSNet.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.MSNet" Source="src\NAnt.MSNet\NAnt.MSNet.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.VSNet" Source="src\NAnt.VSNet\NAnt.VSNet.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NAnt.VSNet" Source="src\NAnt.VSNet\NAnt.VSNet.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NAnt.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NAnt.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.Console" Source="src\Nant.Console\App.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="NAnt.Console" Source="src\Nant.Console\App.config" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NAnt.Tests" Source="tests\NAnt.Tests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.DotNet" Source="src\NAnt.DotNet\NAnt.DotNet.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.VisualCpp" Source="src\NAnt.VisualCpp\NAnt.VisualCpp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.Compression" Source="src\NAnt.Compression\NAnt.Compression.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NDoc.Documenter.NAnt" Source="src\NDoc.Documenter.NAnt\NDoc.Documenter.NAnt.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.Core" Source="src\NAnt.Core\NAnt.Core.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.NUnit" Source="src\NAnt.NUnit\NAnt.NUnit.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.NUnit2" Source="src\NAnt.NUnit\NUnit2\NAnt.NUnit2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.NUnit1" Source="src\NAnt.NUnit\NUnit1\NAnt.NUnit1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.SourceControl" Source="src\NAnt.SourceControl\NAnt.SourceControl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.Win32" Source="src\NAnt.Win32\NAnt.Win32.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.MSNet" Source="src\NAnt.MSNet\NAnt.MSNet.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NAnt.VSNet" Source="src\NAnt.VSNet\NAnt.VSNet.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

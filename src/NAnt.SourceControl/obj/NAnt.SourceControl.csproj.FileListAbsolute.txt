@@ -1,0 +1,6 @@
+C:\nant-0.85-rc4\build.VS.NET\NAnt.SourceControl\NAnt.SourceControlTasks.dll
+C:\nant-0.85-rc4\build.VS.NET\NAnt.SourceControl\NAnt.SourceControlTasks.pdb
+C:\nant-0.85-rc4\build.VS.NET\NAnt.SourceControl\NAnt.SourceControlTasks.xml
+C:\nant-0.85-rc4\src\NAnt.SourceControl\obj\Debug\ResolveAssemblyReference.cache
+C:\nant-0.85-rc4\src\NAnt.SourceControl\obj\Debug\NAnt.SourceControlTasks.dll
+C:\nant-0.85-rc4\src\NAnt.SourceControl\obj\Debug\NAnt.SourceControlTasks.pdb
